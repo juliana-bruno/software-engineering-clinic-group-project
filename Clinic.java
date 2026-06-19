@@ -13,8 +13,8 @@ import java.sql.*;
 import java.util.Scanner;
 public class Clinic {
   static final String DB_URL = "jdbc:mysql://localhost/clinic";
-  static final String USER = "root";
-  static final String PASS = "software";
+  static final String USER = "****"; //user
+  static final String PASS = "********"; //password
   static String QUERY = "";//removed final bcuz of code errors
   static String QUERY2 = "";
      
