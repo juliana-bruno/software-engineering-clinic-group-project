@@ -1,0 +1,31 @@
+procedure_id,procedure_name,pr_region
+100,Elbow replacement surgery,Elbow
+101,Bunion surgery,Foot & Ankle
+102,Ankle reconstruction,Foot & Ankle
+103,Foot reconstruction,Foot & Ankle
+104,X-ray,General Orthopedic / Multiple Regions
+105,Arthroscopy,General Orthopedic / Multiple Regions
+106,Ligament repair,General Orthopedic / Multiple Regions
+107,Ligament reconstruction,General Orthopedic / Multiple Regions
+108,Cartilage repair,General Orthopedic / Multiple Regions
+109,Bone grafting,General Orthopedic / Multiple Regions
+110,Osteotomy,General Orthopedic / Multiple Regions
+111,Tendon transfer,General Orthopedic / Multiple Regions
+112,Limb lengthening,General Orthopedic / Multiple Regions
+113,Hip Replacement,Hip
+114,Hand surgery,Hand & Fingers
+115,Carpal tunnel release,Hand & Fingers
+116,Finger joint replacement surgery,Hand & Fingers
+117,Finger reattachment,Hand & Fingers
+118,Nerve decompression,Hand & Fingers
+119,ACL reconstruction,Knee
+120,Knee reconstruction,Knee
+121,Partial knee replacement,Knee
+122,Joint replacement,Knee
+123,Rotator cuff repair,Shoulder
+124,Reverse shoulder replacement,Shoulder
+125,Spine surgery,Spine
+126,Spinal fusion,Spine
+127,Diskectomy,Spine
+128,Vertebroplasty,Spine
+129,Wrist fracture treatment,Wrist
